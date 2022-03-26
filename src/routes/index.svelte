@@ -20,74 +20,74 @@
 	let portfolios = [
 		{
 			name: 'Brittany Chiang',
-			url: 'https://brittanychiang.com/',
+			url: 'https://brittanychiang.com',
 			previewPhoto: brittanyChiangJpg
 		},
 		{
 			name: 'Jacek Jeznach',
-			url: 'https://jacekjeznach.com/',
+			url: 'https://jacekjeznach.com',
 			previewPhoto: jacekJeznachJpg
 		},
 		{
 			name: 'Jhey Tompkins',
-			url: 'https://jhey.dev/',
+			url: 'https://jhey.dev',
 			previewPhoto: jheyTompkinsJpg
 		},
 		{
 			name: 'Braydon Coyer',
-			url: 'https://braydoncoyer.dev/',
+			url: 'https://braydoncoyer.dev',
 			previewPhoto: braydonCoyerJpg
 		},
 		{
 			name: 'Adenekan Wonderful',
-			url: 'https://www.codewonders.dev/',
+			url: 'https://www.codewonders.dev',
 			previewPhoto: adenekanWonderfulJpg
 		},
 		{
 			name: 'Joshua Comeau',
-			url: 'https://www.joshwcomeau.com/',
+			url: 'https://www.joshwcomeau.com',
 			previewPhoto: joshuaComeauJpg
 		},
 
 		{
 			name: 'Ryan Warner',
-			url: 'https://ryan.warner.codes./',
+			url: 'https://ryan.warner.codes.',
 			previewPhoto: ryanWarnerJpg
 		},
 
 		{
 			name: 'Olaolu Olawuyi',
-			url: 'https://olaolu.dev/',
+			url: 'https://olaolu.dev',
 			previewPhoto: olaoluOlawuyiJpg
 		},
 
 		{
 			name: 'Cassidy Williams',
-			url: 'https://cassidoo.co//',
+			url: 'https://cassidoo.co',
 			previewPhoto: cassidyWilliamsJpg
 		},
 
 		{
 			name: 'Adrian Zumbrunnen',
-			url: 'https://azumbrunnen.me/',
+			url: 'https://azumbrunnen.me',
 			previewPhoto: adrianZumbrunnenJpg
 		},
 
 		{
 			name: 'Keiran Lovett',
-			url: 'https://keiranlovett.com/',
+			url: 'https://keiranlovett.com',
 			previewPhoto: keiranLovettJpg
 		},
 
 		{
 			name: 'Rick Waalders',
-			url: 'https://www.rickwaalders.com/',
+			url: 'https://www.rickwaalders.com',
 			previewPhoto: rickWaaldersJpg
 		},
 
 		{
 			name: 'Prachant Sani',
-			url: 'https://prashantsani.com/',
+			url: 'https://prashantsani.com',
 			previewPhoto: prachantSaniJpg
 		}
 	];

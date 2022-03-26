@@ -16,19 +16,19 @@ I had some criteria for my selection, mainly:
 
 ## Developers
 
-- [Brittany Chiang](https://brittanychiang.com/)
-- [Jacek Jeznach](https://jacekjeznach.com/)
-- [Jhey Tompkins](https://jhey.dev/)
-- [Braydon Coyer](https://braydoncoyer.dev/)
-- [Adenekan Wonderful](https://www.codewonders.dev/)
-- [Joshua Comeau](https://www.joshwcomeau.com/)
-- [Ryan Warner](https://ryan.warner.codes./)
-- [Olaolu Olawuyi](https://olaolu.dev/)
-- [Cassidy Williams](https://cassidoo.co//)
-- [Adrian Zumbrunnen](https://azumbrunnen.me/)
-- [Keiran Lovett](https://keiranlovett.com/)
-- [Rick Waalders](https://www.rickwaalders.com/)
-- [Prachant Sani](https://prashantsani.com/)
+- [Brittany Chiang](https://brittanychiang.com)
+- [Jacek Jeznach](https://jacekjeznach.com)
+- [Jhey Tompkins](https://jhey.dev)
+- [Braydon Coyer](https://braydoncoyer.dev)
+- [Adenekan Wonderful](https://www.codewonders.dev)
+- [Joshua Comeau](https://www.joshwcomeau.com)
+- [Ryan Warner](https://ryan.warner.codes.)
+- [Olaolu Olawuyi](https://olaolu.dev)
+- [Cassidy Williams](https://cassidoo.co)
+- [Adrian Zumbrunnen](https://azumbrunnen.me)
+- [Keiran Lovett](https://keiranlovett.com)
+- [Rick Waalders](https://www.rickwaalders.com)
+- [Prachant Sani](https://prashantsani.com)
 
 ## Author
 
