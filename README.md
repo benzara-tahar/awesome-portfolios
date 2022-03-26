@@ -29,6 +29,7 @@ I had some criteria for my selection, mainly:
 - [Keiran Lovett](https://keiranlovett.com)
 - [Rick Waalders](https://www.rickwaalders.com)
 - [Prachant Sani](https://prashantsani.com)
+- [Sourav Dey](https://www.souravdey.space)
 
 ## Author
 

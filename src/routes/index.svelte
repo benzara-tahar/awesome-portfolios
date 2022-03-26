@@ -16,7 +16,7 @@
 	import keiranLovettJpg from '../../static/portfolios/keiran-lovett.jpg';
 	import rickWaaldersJpg from '../../static/portfolios/rick-waalders.jpg';
 	import prachantSaniJpg from '../../static/portfolios/prachant-sani.jpg';
-
+	import souravDeyJpg from '../../static/portfolios/sourav-dey.jpg';
 	let portfolios = [
 		{
 			name: 'Brittany Chiang',
@@ -89,6 +89,12 @@
 			name: 'Prachant Sani',
 			url: 'https://prashantsani.com',
 			previewPhoto: prachantSaniJpg
+		},
+
+		{
+			name: 'Sourav Dey',
+			url: 'https://www.souravdey.space',
+			previewPhoto: souravDeyJpg
 		}
 	];
 </script>
