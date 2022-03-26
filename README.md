@@ -12,7 +12,7 @@ I had some criteria for my selection, mainly:
 - SEO friendly, some websites are built entirely using canvas animation, no way to select/index text content
 - easy navigation, I avoided some game-like portfolio websites since I found them too distracting and defeating the purpose of delivering the information in a short and efficient way.
 
-## [Live Website](http://www.to-update.com/) 🎙
+## [Live Website](https://awesome-portfolios.vercel.app/) 🎙
 
 ## Developers
 
