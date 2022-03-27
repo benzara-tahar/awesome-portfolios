@@ -122,19 +122,3 @@
 		{/each}
 	</div>
 </section>
-
-<style lang="scss">
-	.animated-gradient {
-		animation: hue 10s infinite linear;
-		-webkit-animation: hue 10s infinite linear;
-	}
-
-	@keyframes hue {
-		from {
-			-webkit-filter: hue-rotate(0deg);
-		}
-		to {
-			-webkit-filter: hue-rotate(-360deg);
-		}
-	}
-</style>

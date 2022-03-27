@@ -10,7 +10,7 @@
 		>
 			Inspi
 			<Ring />
-			{'{Developer}'} Portfolios
+			{'{developer}'} portfolios
 		</h1>
 		<p class="text-lg text-gray-300 my-2" style="font-size: clamp(0.85rem, 4vw, 1.4rem);">
 			A Curated list of developer Portfolios for your inspiration.
