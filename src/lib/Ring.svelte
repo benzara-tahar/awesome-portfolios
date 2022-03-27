@@ -1,4 +1,4 @@
-<span class="cursor-pointer group -ml-2 mr-4 ">
+<span class="cursor-pointer group -ml-2 md:mr-4 lg:mr-7 ">
 	<span
 		class=" font-bold text-transparent bg-clip-text bg-gradient-to-br from-green-400 to-blue-400 via-yellow-400  animated-gradient absolute group-hover:opacity-0
         group-hover:-rotate-45 transition-all rotate-0 duration-300">ring</span
