@@ -18,6 +18,9 @@
 	import prachantSaniJpg from '../../static/portfolios/prachant-sani.jpg';
 	import souravDeyJpg from '../../static/portfolios/sourav-dey.jpg';
 	import christopherCherupilJpg from '../../static/portfolios/christopher-cherupil.jpg';
+
+	import Ring from '$lib/Ring.svelte';
+	import PortfolioCard from '$lib/PortfolioCard.svelte';
 	let portfolios = [
 		{
 			name: 'Brittany Chiang',
@@ -110,33 +113,12 @@
 	<title>Curated list of Developer portfolios for your inspiration.</title>
 </svelte:head>
 
-<section class="p-8">
+<section class="container p-4 mx-auto">
 	<div
-		class="mt-4 grid sm:grid-cols-2 grid-cols-1 gap-4 items-center justify-center justify-items-center sm:justify-items-stretch max-w-4xl mx-auto"
+		class="mt-6  grid lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-8 items-center  justify-items-center  max-w-5xl mx-auto"
 	>
-		<div class="sm:col-span-2 w-full">
-			<h1
-				class="text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-br from-green-400 to-blue-400 via-yellow-400  animated-gradient"
-			>
-				Creative developer portfolios
-			</h1>
-			<p class="text-lg text-gray-50 mt-2">
-				Curated list of Developer Github Profiles for your inspiration.
-			</p>
-		</div>
 		{#each portfolios as portfolio}
-			<div class="my-2 max-w-sm cursor-pointer group flex flex-col space-y-2">
-				<a href={portfolio.url} target="_blank">
-					<img
-						src={portfolio.previewPhoto}
-						alt={portfolio.name}
-						class="rounded-lg group-hover:transform group-hover:-translate-y-1 transition-transform object-cover grou-hover:shadow-lg shadow-red-500"
-					/>
-				</a>
-				<span class="text-gray-100 group-hover:text-primary-50 text-lg mt-4">
-					{portfolio.name}
-				</span>
-			</div>
+			<PortfolioCard {portfolio} />
 		{/each}
 	</div>
 </section>

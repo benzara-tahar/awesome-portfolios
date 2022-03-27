@@ -1,11 +1,28 @@
-<nav class="container flex justify-end mx-auto py-4 fixed">
+<script lang="ts">
+	import Ring from './Ring.svelte';
+</script>
+
+<nav class="max-w-5xl flex justify-between mx-auto p-4 sm:items-center items-start">
+	<div class="">
+		<h1
+			style="font-size: clamp(2rem, 5vw, 2.8rem);"
+			class=" font-bold text-transparent bg-clip-text bg-gradient-to-br from-green-400 to-blue-400 via-yellow-400  animated-gradient"
+		>
+			Inspi
+			<Ring />
+			{'{Developer}'} Portfolios
+		</h1>
+		<p class="text-lg text-gray-300 my-2" style="font-size: clamp(0.85rem, 4vw, 1.4rem);">
+			A Curated list of developer Portfolios for your inspiration.
+		</p>
+	</div>
 	<a
 		href="https://github.com/benzara-tahar/awesome-portfolios"
 		target="_blanjk"
 		class="text-slate-200 hover:text-white"
 		title="contribute to this project on github"
 	>
-		<svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+		<svg width="36" height="36" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
 			<g>
 				<path fill="none" d="M0 0h24v24H0z" />
 				<path
