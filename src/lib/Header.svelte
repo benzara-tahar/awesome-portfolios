@@ -5,7 +5,7 @@
 <nav class="max-w-5xl flex justify-between mx-auto p-4 sm:items-center items-start">
 	<div class="">
 		<h1
-			style="font-size: clamp(2rem, 5vw, 2.8rem);"
+			style="font-size: clamp(1.5rem, 2vw, 2.8rem);"
 			class=" font-bold text-transparent bg-clip-text bg-gradient-to-br from-green-400 to-blue-400 via-yellow-400  animated-gradient"
 		>
 			Inspi

@@ -1,12 +1,10 @@
-<span class="cursor-pointer group -ml-2 mr-8">
+<span class="cursor-pointer group -ml-2 mr-4 ">
 	<span
-		class=" font-bold text-transparent bg-clip-text bg-gradient-to-br from-green-400 to-blue-400 via-yellow-400  animated-gradient absolute group-hover:opacity-0 transition-opacity"
-		>ring</span
+		class=" font-bold text-transparent bg-clip-text bg-gradient-to-br from-green-400 to-blue-400 via-yellow-400  animated-gradient absolute group-hover:opacity-0
+        group-hover:-rotate-45 transition-all rotate-0 duration-300">ring</span
 	>
 	<svg
-		class="inline opacity-0 -mt-2  group-hover:opacity-100 transition-opacity "
-		width="50px"
-		height="50px"
+		class="inline opacity-0 -mt-2  w-6 h-6 sm:w-10 sm:h-10  group-hover:opacity-100 group-hover:rotate-0 rotate-45 transition-all  duration-300"
 		viewBox="0 0 72 72"
 		xmlns="http://www.w3.org/2000/svg"
 		xmlns:xlink="http://www.w3.org/1999/xlink"
