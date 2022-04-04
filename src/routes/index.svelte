@@ -18,6 +18,7 @@
 	import prachantSaniJpg from '../../static/portfolios/prachant-sani.jpg';
 	import souravDeyJpg from '../../static/portfolios/sourav-dey.jpg';
 	import christopherCherupilJpg from '../../static/portfolios/christopher-cherupil.jpg';
+	import bentonBoychukChorneyJpg from '../../static/portfolios/benton-boychuk-chorney.jpg';
 
 	import Ring from '$lib/Ring.svelte';
 	import PortfolioCard from '$lib/PortfolioCard.svelte';
@@ -105,6 +106,11 @@
 			name: 'Christopher Cherupil',
 			url: 'https://cherupil.com',
 			previewPhoto: christopherCherupilJpg
+		},
+		{
+			name: 'Benton Boychuk-Chorney',
+			url: 'https://www.benten.ca',
+			previewPhoto: bentonBoychukChorneyJpg
 		}
 	];
 </script>

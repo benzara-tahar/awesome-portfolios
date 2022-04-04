@@ -31,6 +31,7 @@ I had some criteria for my selection, mainly:
 - [Prachant Sani](https://prashantsani.com)
 - [Sourav Dey](https://www.souravdey.space)
 - [Christopher Cherupil](https://cherupil.com)
+- [Benton Boychuk-Chorney](https://www.benten.ca)
 
 ## Author
 
