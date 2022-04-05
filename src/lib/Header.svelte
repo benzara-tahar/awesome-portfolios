@@ -4,14 +4,17 @@
 
 <nav class="max-w-5xl flex justify-between mx-auto p-4 sm:items-center items-start">
 	<div class="">
-		<h1
+		<div
 			style="font-size: clamp(1.5rem, 2vw, 2.8rem);"
-			class=" font-bold text-transparent bg-clip-text bg-gradient-to-br from-green-400 to-blue-400 via-yellow-400  animated-gradient"
+			class="flex flex-row flex-wrap  font-bold text-transparent bg-clip-text bg-gradient-to-br from-green-400 to-blue-400 via-yellow-400  animated-gradient"
 		>
-			Inspi
+			<span> Inspi </span>
 			<Ring />
-			{'{developer}'} portfolios
-		</h1>
+			<span class="pl-7 md:pl-4 lg:pl-5">
+				{'{developer}'}
+			</span>
+			<span class="pl-2"> portfolios </span>
+		</div>
 		<p class="text-lg text-gray-300 my-2" style="font-size: clamp(0.85rem, 4vw, 1.4rem);">
 			A Curated list of developer Portfolios for your inspiration.
 		</p>

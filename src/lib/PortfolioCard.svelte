@@ -1,6 +1,4 @@
 <script lang="ts">
-	import { fade, draw, fly } from 'svelte/transition';
-	import { quintOut } from 'svelte/easing';
 	export let portfolio = undefined;
 </script>
 
