@@ -32,6 +32,7 @@ I had some criteria for my selection, mainly:
 - [Sourav Dey](https://www.souravdey.space)
 - [Christopher Cherupil](https://cherupil.com)
 - [Benton Boychuk-Chorney](https://www.benten.ca)
+- [Nico Domino](https://www.ndo.dev)
 
 ## Author
 

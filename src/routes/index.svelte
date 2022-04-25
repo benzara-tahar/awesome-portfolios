@@ -19,8 +19,8 @@
 	import souravDeyJpg from '../../static/portfolios/sourav-dey.jpg';
 	import christopherCherupilJpg from '../../static/portfolios/christopher-cherupil.jpg';
 	import bentonBoychukChorneyJpg from '../../static/portfolios/benton-boychuk-chorney.jpg';
+	import nicoDominoJpg from '../../static/portfolios/nico-domino.jpg';
 
-	import Ring from '$lib/Ring.svelte';
 	import PortfolioCard from '$lib/PortfolioCard.svelte';
 	let portfolios = [
 		{
@@ -111,6 +111,11 @@
 			name: 'Benton Boychuk-Chorney',
 			url: 'https://www.benten.ca',
 			previewPhoto: bentonBoychukChorneyJpg
+		},
+		{
+			name: 'Nico Domino',
+			url: 'https://ndo.dev',
+			previewPhoto: nicoDominoJpg
 		}
 	];
 </script>
