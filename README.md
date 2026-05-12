@@ -33,6 +33,7 @@ I had some criteria for my selection, mainly:
 - [Christopher Cherupil](https://cherupil.com)
 - [Benton Boychuk-Chorney](https://www.benten.ca)
 - [Nico Domino](https://www.ndo.dev)
+- [Parish Khan](https://parish.cv)
 
 ## Author
 
