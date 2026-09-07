@@ -33,6 +33,7 @@ I had some criteria for my selection, mainly:
 - [Christopher Cherupil](https://cherupil.com)
 - [Benton Boychuk-Chorney](https://www.benten.ca)
 - [Nico Domino](https://www.ndo.dev)
+- [Shreyam Adhikari](https://shreyam1008.com.np/)
 
 ## Author
 
