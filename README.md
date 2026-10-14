@@ -15,7 +15,7 @@ I had some criteria for my selection, mainly:
 ## [Live Website](https://awesome-portfolios.vercel.app/) 🎙
 
 ## Developers
-
+- [Aggelos Ladas](https://aggelosladas.com)
 - [Brittany Chiang](https://brittanychiang.com)
 - [Jacek Jeznach](https://jacekjeznach.com)
 - [Jhey Tompkins](https://jhey.dev)
