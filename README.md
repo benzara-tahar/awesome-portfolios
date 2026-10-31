@@ -16,6 +16,7 @@ I had some criteria for my selection, mainly:
 
 ## Developers
 
+- [Yorben Vander Sleyen](https://yorben.me)
 - [Brittany Chiang](https://brittanychiang.com)
 - [Jacek Jeznach](https://jacekjeznach.com)
 - [Jhey Tompkins](https://jhey.dev)
