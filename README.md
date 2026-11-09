@@ -15,6 +15,7 @@ I had some criteria for my selection, mainly:
 ## [Live Website](https://awesome-portfolios.vercel.app/) 🎙
 
 ## Developers
+- [Yorben Vandersleyen](https://yorben.me/#needle) - Indie developer portfolio featuring native Mac companion Needle.
 
 - [Brittany Chiang](https://brittanychiang.com)
 - [Jacek Jeznach](https://jacekjeznach.com)
